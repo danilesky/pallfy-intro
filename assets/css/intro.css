@@ -4,7 +4,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    background: white;
+    background: #eed8c9;
     position: fixed;
     z-index: 999999;
   }
@@ -30,7 +30,7 @@
     margin: 0;
     display: table;
     text-align: center;
-    color: #A49B81;
+    color: #b7744d;
     font-weight: 500;
     font-family: 'Hind', sans-serif;
     font-size: 48px;

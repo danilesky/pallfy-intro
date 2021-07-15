@@ -1,1 +1,1 @@
-hotel lomnica scroll animation
+kaštieľ Pallfy intro overview

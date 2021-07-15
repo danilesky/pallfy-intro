@@ -4,6 +4,10 @@ var overlay = document.getElementById('intro_overlay')
 var interval = 500;
 var timer = 500;
 
+window.onbeforeunload = function () {
+    window.scrollTo(0,0);
+};
+
 const words = ["Tradície","Hravosť","Inovácie"]
 
 function msieversion(){
