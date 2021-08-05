@@ -8,7 +8,7 @@ window.onbeforeunload = function () {
     window.scrollTo(0,0);
 };
 
-const words = ["Tradície","Hravosť","Inovácie"]
+const words = ["Ľudskosť","Umenie","Zážitok"]
 
 function msieversion(){
     var ua = window.navigator.userAgent;
